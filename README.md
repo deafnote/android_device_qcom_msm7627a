@@ -1,0 +1,1 @@
+GIGABYTE GSmart Rio R1 android 4.0.4(ICS) open source. 
